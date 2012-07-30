@@ -1,5 +1,0 @@
-<?php
-
-echo "lib.php";
-
-?>
